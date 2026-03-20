@@ -2,7 +2,7 @@
 
 **Author:** Pranav Pothan  
 **Affiliation:** Chennai Mathematical Institute  
-**Contact:** pranavpothan@cmi.ac.in  
+**Contact:** pothanpranav@gmail.com  
 
 ---
 
